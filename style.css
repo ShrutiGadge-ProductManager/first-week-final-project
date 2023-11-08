@@ -1,0 +1,156 @@
+.header-box {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    text-align: center;
+}
+
+#name-box {
+ margin-bottom: 1rem;
+}
+
+#submit-button {
+    text-align: center;
+    margin-top: 1rem;
+}
+
+#title-box {
+    margin-right: 2rem;
+}
+
+#link-box {
+    margin-right: 5rem;
+    margin-left: 2rem;
+}
+
+#post-button {
+    margin-left: 5rem;
+}
+
+.red-border {
+    border: 0.1rem solid red;
+}
+
+.header {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 5rem;
+}
+
+.helement {
+    margin-right: 5rem;
+    margin-left: 10rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+    margin-bottom: 2rem;
+
+}
+
+.contentcolumn {
+    padding-top: 5rem;
+}
+
+
+.contentsquare {  
+    padding-top: 5rem; 
+    padding-bottom: 5rem;
+    padding-right: 5rem;
+    padding-left: 5rem; 
+}
+
+.main-card {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.profile-name {
+    display: grid;
+    grid-template-columns: 5rem 30%;
+   
+}
+
+.profile {
+    width: 5rem;
+    height: 5rem;
+}
+
+.unfriend {
+    width: 7rem;
+    height: 1rem;
+    margin-top: 1rem;
+}
+
+.createpost {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+}
+
+.profile-pic {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+}
+
+#grid-container {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+
+.pic-and-name {
+    display: grid;
+    grid-template-columns: 5rem 100%;
+    margin-bottom: 1rem;
+}
+
+.name {
+    margin-top: 2rem;
+    margin-left: 1rem;
+}
+
+.post-title {
+    margin-bottom: 1rem;
+}
+
+.post-image {
+    width: 100%;
+    height: 20rem;
+    object-fit: cover;
+}
+
+.like-button {
+    margin-top: 1rem;
+}
+
+.posts-container {
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+
+}
+
+.dp {
+    width: 5rem;
+    height: 5rem;
+    object-fit: cover;
+}
+
+.unfriend-box {
+    display: grid;
+    grid-template-columns: 5rem 100%;
+}
